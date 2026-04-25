@@ -2,7 +2,14 @@
 
 A deep learning and computer vision project that automates player and tennis ball tracking, court line detection, and player performance analysis.
 
-https://github.com/user-attachments/assets/17b3af31-5dfa-46df-866f-43a0fae7278b
+
+https://github.com/user-attachments/assets/17cd8f19-897a-42c2-a219-7b792db44f34
+
+
+
+https://github.com/user-attachments/assets/8fae095d-ef6f-4d2e-a29b-68f609475eaf
+
+
 
 ## Overview
 
