@@ -5,8 +5,7 @@ A deep learning and computer vision project that automates player and tennis bal
 
 
 
-https://github.com/liwa088/Tennis_Analysis/output_videos/output_video.mp4
-https://github.com/liwa088/Tennis_Analysis/output_videos/tennis_output.mp4
+
 
 
 
